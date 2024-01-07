@@ -1,0 +1,1 @@
+Les fichiers portant le suffixe "final" représentent la version finale du rapport incluant la deuxième partie. Ceux sans ce suffixe correspondent à la première partie. Les fichiers exécutables se trouvent dans le dossier "bin" du conteneur Docker créé, tandis que les images sont stockées dans le dossier "img" et les données dans le dossier "data
